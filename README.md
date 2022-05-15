@@ -62,6 +62,7 @@ This project contains all of the code for my personal portfolio website and incl
 ### Built With
 
 * [Bootstrap](https://getbootstrap.com)
+* [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,6 +96,7 @@ Project Link: [https://github.com/MSBivens/personal_portfolio_website](https://g
 ## Acknowledgments
 
 * [Devicon](https://devicon.dev/)
+* [Colorlib](https://colorlib.com/wp/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
