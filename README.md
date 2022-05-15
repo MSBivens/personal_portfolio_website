@@ -63,18 +63,16 @@ This project contains all of the code for my personal portfolio website and incl
 
 * [Bootstrap](https://getbootstrap.com)
 * [Flask](https://flask.palletsprojects.com/en/2.1.x/)
+* [WTForms](https://wtforms.readthedocs.io/en/3.0.x/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Launch v1
-- [ ] Implement Semantic HTML
-- [ ] Refactor front-end
-- [ ] Implement JavaScript
+- [ X ] Launch v1
+- [ ] Refactor for Flask
 - [ ] Implement database for projects
-- [ ] Collate XP & Project sections & use tags
 - [ ] Add an "projects" page
 
 <p align="right">(<a href="#top">back to top</a>)</p>
